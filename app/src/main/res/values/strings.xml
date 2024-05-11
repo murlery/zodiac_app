@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zodiac App</string>
+    <string name="first_upper_text">Проверь свою совместимость с партнером по знаку зодиака</string>
+    <string name="second_upper_text">Введи знаки зодиака и узнай, подходите ли вы друг другу?</string>
+    <string name="zodiac_sign_woman">Знак зодиака женщины:</string>
+    <string name="zodiac_sign_man">Знак зодиака мужчины:</string>
+    <string name="zodiac_sign_editText">Введите знак зодиака</string>
+    <string name="view_compatibility">посмотреть совместимость</string>
+    <string name="compatibility">Ваша совместимость</string>
+    <string name="imgText">знаки зодиака</string>
+    <string name="man_and_woman">man_and_woman</string>
+    <string name="back">назад</string>
+</resources>
