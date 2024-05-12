@@ -160,8 +160,6 @@ public class ZodiacSign {
             return  "97%\n Лев – полный эгоист, водолей же – законченный альтруист. Как думаете, кто в этой паре будет центром Вселенной?";        }
         else if ((zodiacWoman.equals("лев") && zodiacMan.equals("рыбы"))||(zodiacWoman.equals("рыбы") && zodiacMan.equals("лев"))){
             return  "83%\n Лев — яркий и страстный, рыбы — нежные и робкие. Они должны неплохо друг другу подойти.";        }
-
-
         else if (zodiacWoman.equals("дева") && zodiacMan.equals("дева")){
             return  "75%\n Они так похожи, что просто не могут не заметить друг друга. Но смогут ли они по-настоящему заинтересоваться друг другом – вот это вопрос.";}
         else if ((zodiacWoman.equals("дева") && zodiacMan.equals("весы"))||(zodiacWoman.equals("весы") && zodiacMan.equals("дева"))){
@@ -176,8 +174,6 @@ public class ZodiacSign {
             return  "72%\n Любовные отношения девой и водолеем могут быть полными романтики — если только дева позволит себе такую роскошь. Дело в том, что для девы водолея — это что-то за гранью.";}
         else if ((zodiacWoman.equals("дева") && zodiacMan.equals("рыбы"))||(zodiacWoman.equals("рыбы") && zodiacMan.equals("дева"))){
             return  "67%\n Дева – сама рациональность и практичность. Рыбы всегда расслаблены и имеют богатое воображение. Дева привыкла к четкому графику, рыбам же по душе спонтанность и отсутствие рамок.";}
-
-
         else if (zodiacWoman.equals("весы") && zodiacMan.equals("весы")){
             return  "95%\n Пожалуй, это самый дипломатичный союз из всех возможных.";}
         else if ((zodiacWoman.equals("весы") && zodiacMan.equals("скорпион"))||(zodiacWoman.equals("скорпион") && zodiacMan.equals("весы"))){
@@ -190,8 +186,6 @@ public class ZodiacSign {
             return  "96%\n Они оба не любят долгих выяснений отношений, а любят когда все легко, просто и хорошо.";   }
         else if ((zodiacWoman.equals("весы") && zodiacMan.equals("рыбы"))||(zodiacWoman.equals("рыбы") && zodiacMan.equals("весы"))){
             return  "81%\n Они обратят внимание друг на друга довольно скоро: рыбам, несомненно, понравится легкость и нежность. Весы же будут заворожены галантностью и мягкостью.";   }
-
-
         else if (zodiacWoman.equals("скорпион") && zodiacMan.equals("скорпион")){
             return  "94%\n Это два сгустка кипучей энергии, страсти, завышенных амбиций и глубокой чувствительности. Оказавшись рядом, они вряд ли смогут отказаться от искушения попробовать друг друга на вкус.";}
         else if ((zodiacWoman.equals("скорпион") && zodiacMan.equals("стрелец"))||(zodiacWoman.equals("стрелец") && zodiacMan.equals("скорпион"))){
@@ -202,9 +196,6 @@ public class ZodiacSign {
             return  "88%\n Безусловно, они сразу обратят друг на друга внимание. Такие смелые, дерзкие и в то же время глубокие и ранимые.";}
         else if ((zodiacWoman.equals("скорпион") && zodiacMan.equals("рыбы"))||(zodiacWoman.equals("рыбы") && zodiacMan.equals("скорпион"))){
             return  "97%\n  Они оба — чувственные, страстные и нежные. Романтики между этими двумя будет море.";}
-
-
-
         else if (zodiacWoman.equals("стрелец") && zodiacMan.equals("стрелец")){
             return  "100%\n Если вы когда-нибудь видели людей, которые отражают друг друга, словно в зеркале, вероятно, это были женщина и мужчина - стрелецы.";}
          else if ((zodiacWoman.equals("стрелец") && zodiacMan.equals("козерог"))||(zodiacWoman.equals("козерог") && zodiacMan.equals("стрелец"))){
@@ -213,15 +204,12 @@ public class ZodiacSign {
             return  "100%\n Они оба порывистые, свободные и энергичные. Их пара похожа на союз солнца и ветра — звучит очень привлекательно, правда?";}
         else if ((zodiacWoman.equals("стрелец") && zodiacMan.equals("рыбы"))||(zodiacWoman.equals("рыбы") && zodiacMan.equals("стрелец"))){
             return  "71%\n Часто они думают одинаково. Общее мировоззрение значит для них больше, чем страсть и влечение.";}
-
-
         else if (zodiacWoman.equals("козерог") && zodiacMan.equals("козерог")){
             return  "84%\n Они стоят друг друга. Оба практичные, целеустремленные и… зацикленные на себе.";}
          else if ((zodiacWoman.equals("козерог") && zodiacMan.equals("водолей"))||(zodiacWoman.equals("водолей") && zodiacMan.equals("козерог"))){
             return  "82%\n Это очень интересная пара. Козерог пытается ограничить водолея, а он никак не ограничивается.";}
         else if ((zodiacWoman.equals("козерог") && zodiacMan.equals("рыбы"))||(zodiacWoman.equals("рыбы") && zodiacMan.equals("козерог"))){
             return  "67%\n Любовь между козерогом и рыбами может быть очень крепкой. У них похожие ценности, и семья является приоритетной. Скорее всего, они заключат брак не в молодом, а достаточно зрелом возрасте";}
-
         else if (zodiacWoman.equals("водолей") && zodiacMan.equals("водолей")){
             return  "77%\n Планета Уран, которая управляет знаком Водолея, обязывает его любить все странное, необычное, непривычное и свободно. Вот поэтому-то женщина и мужчина-Водолей, едва завидя друг друга, влюбляются страстно и бесповоротно.";}
         else if ((zodiacWoman.equals("водолей") && zodiacMan.equals("рыбы"))||(zodiacWoman.equals("рыбы") && zodiacMan.equals("водолей"))){
